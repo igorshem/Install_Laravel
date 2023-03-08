@@ -1,5 +1,5 @@
-# Настройка и установка Laravel #
-* Windows 7, OpenServer 5.4.1
+# Настройка и установка Laravel под Windows 7
+* Windows 7 64bit, OpenServer 5.4.1
 * Корень OpenServer-а (пути относительно него):
 > d:\OS541
 * Порядок шагов играет роль
